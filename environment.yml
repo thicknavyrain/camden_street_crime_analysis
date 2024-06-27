@@ -1,0 +1,19 @@
+name: camden_task
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pandas
+  - geopandas
+  - seaborn
+  - matplotlib
+  - numpy
+  - pymannkendall
+  - scipy
+  - statsmodels
+  - tqdm
+  - shapely
+  - contextily
+  - libtiff
+  - pillow
+  - jupyterlab
